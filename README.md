@@ -27,8 +27,8 @@ Obtain the straight line equation Y=mX+b and plot the scatterplot.
 ```
 
 Program to implement univariate Linear Regression to fit a straight line using least squares.
-Developed by: 
-RegisterNumber:  
+Developed by: DHARSHAN V
+RegisterNumber:  212222230031
 
 ```
 ```
